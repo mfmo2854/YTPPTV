@@ -12,8 +12,8 @@ const PASSWORD_CONFIG = {
 
 // 网站信息配置
 const SITE_CONFIG = {
-    name: 'YTPPTV',
-    url: 'https://tv.199908.top',
+    name: 'Zues'TV',
+    url: 'https://ytpptv.fnosn100.dpdns.org',
     description: '免费在线视频搜索与观看平台',
     logo: 'image/logo.png',
     version: '1.0.3'
